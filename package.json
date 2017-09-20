@@ -1,0 +1,22 @@
+{
+  "name": "symphony-openfin-launcher",
+  "version": "0.0.1",
+  "description": "Symphony OpenFin Launcher",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tgoc99/Symphony-OpenFin-Launcher"
+  },
+  "author": "Thomas OConnor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tgoc99/Symphony-OpenFin-Launcher/issues"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.4",
+    "http": "0.0.0",
+    "path": "^0.12.7"
+  }
+}
